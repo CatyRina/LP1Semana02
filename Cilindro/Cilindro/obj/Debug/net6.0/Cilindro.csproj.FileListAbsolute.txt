@@ -1,0 +1,14 @@
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\bin\Debug\net6.0\Cilindro.exe
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\bin\Debug\net6.0\Cilindro.deps.json
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\bin\Debug\net6.0\Cilindro.runtimeconfig.json
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\bin\Debug\net6.0\Cilindro.dll
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\bin\Debug\net6.0\Cilindro.pdb
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.AssemblyInfoInputs.cache
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.AssemblyInfo.cs
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.dll
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\refint\Cilindro.dll
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.pdb
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\Cilindro.genruntimeconfig.cache
+C:\Users\alexe\MinhaPastaDeLP1\Cilindro\Cilindro\obj\Debug\net6.0\ref\Cilindro.dll
