@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SmoothOperator
 {
@@ -6,7 +6,19 @@ namespace SmoothOperator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Digite um número inteiro não-negativo: ");
+            if (byte.TryParse(Console.ReadLine(), out byte num))
+            {
+                byte decremento = num ++;
+                byte incremento = num --;
+
+                Console.WriteLine(incremento);
+                Console.WriteLine(decremento);
+            }
+            else
+            {
+                Console.WriteLine("Entrada inválida. Por favor, insira um número inteiro não-negativo.");
+            }
         }
     }
 }
