@@ -1,0 +1,14 @@
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\bin\Debug\net6.0\ValoresEspeciais.exe
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\bin\Debug\net6.0\ValoresEspeciais.deps.json
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\bin\Debug\net6.0\ValoresEspeciais.runtimeconfig.json
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\bin\Debug\net6.0\ValoresEspeciais.dll
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\bin\Debug\net6.0\ValoresEspeciais.pdb
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.AssemblyInfoInputs.cache
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.AssemblyInfo.cs
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.dll
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\refint\ValoresEspeciais.dll
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.pdb
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ValoresEspeciais.genruntimeconfig.cache
+C:\Users\alexe\MinhaPastaDeLP1\ValoresEspeciais\ValoresEspeciais\obj\Debug\net6.0\ref\ValoresEspeciais.dll
