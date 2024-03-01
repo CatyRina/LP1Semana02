@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cp7lWpN9jiRK9CXxH87IUO/dDofWkSQsEcKSqjDynh6+k764J+QwtPh4cQ3xojhDLKNKvgVDeDSVfeR117Dh9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a22303056\\Desktop\\LP1Semana02\\ChatGPTZero\\ChatGPTZero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a22303056\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\a22303056\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\a22303056\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\a22303056\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
